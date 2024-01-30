@@ -1,2 +1,2 @@
 # DSFP
-Data Science Final Project
+Data Repository for final project in Data Science.
